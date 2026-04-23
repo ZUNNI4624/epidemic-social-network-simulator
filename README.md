@@ -1,20 +1,7 @@
 # 🦠 Epidemiological Social Network Simulator
 
-[![GitHub Pages](https://img.shields.io/badge/demo-github%20pages-blue)](https://zunni4624.github.io/epidemic-social-network-simulator/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-
 A sophisticated **SIR epidemic simulator** built on a **bipartite social network** model.  
 The simulation uses stochastic transmission algorithms, age‑dependent risk factors, and a force‑directed D3.js visualization to illustrate how diseases spread through a population.
-
-> **Live demo**: [https://zunni4624.github.io/epidemic-social-network-simulator/](https://zunni4624.github.io/epidemic-social-network-simulator/)
-
-![Landing Page](screenshots/landing.png)
-*Parameter configuration page*
-
-![Simulation Running](screenshots/simulation.png)
-*Real‑time network animation and SIR curves*
-
----
 
 ## ✨ Features
 
